@@ -1,0 +1,8 @@
+clientnode-4
+[dev_env]
+clientnode-1
+[qa_env]
+clientnode-2
+[prod_env]
+clientnode-3
+
